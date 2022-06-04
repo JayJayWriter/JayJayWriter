@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JayJayWriter
+- 👀 I’m interested in Dart/Flutter
+- 🌱 I’m currently learning Dart/Flutter
